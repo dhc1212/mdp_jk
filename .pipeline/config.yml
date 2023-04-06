@@ -53,7 +53,7 @@ steps:
       apiEndpoint: 'https://api.cf.us10.hana.ondemand.com'
       org: '76135463trial'
       space: 'dev'
-      credentialsId: 'jenkinsTester'
+      credentialsId: 'dhc1212@mdpert.com'
     # TMS에 대해서 적용시 필요
     # tmsUpload:
     #   credentialsId: 'jenkinsTMStester'
