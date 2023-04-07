@@ -31,6 +31,6 @@ stage('deploy') {
     cloudFoundryDeploy script: this
 }
 
-stage('tmsupload') {
-    tmsUpload script: this
-}
+// stage('tmsupload') {
+//     tmsUpload script: this
+// }
